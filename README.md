@@ -61,9 +61,9 @@ kubectl get nodes
 
 reusable-workflow works as jenkins-shared-library. We can write all codes here.
 
-catalogue and catalogue-deploy repos are applications of roboshop project.
+catalogue and catalogue-deploy repos are applications of expense project.
 
-kubectl get pods.
+kubectl get pods -n expense
 
 
 
